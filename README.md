@@ -16,7 +16,7 @@ If the destination directory does not exist the image will be moved into the
 regular drawable directory.
 
 Image files must be have the .png extension and the density must be seperated
-from the image name using a '-'. These image names work:
+from the image name using '-' as the seperator. These image names work:
 
 - image.png
 - image-hdpi.png
@@ -33,7 +33,7 @@ This is a very early implementation. There will be
 
 ## Contributing
 
-1. Fork it ( http://github.com/klaaspieter/android-density/fork )
+1. Fork it ( http://github.com/klaaspieter/dens/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
