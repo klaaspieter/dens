@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'dens/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "Dens"
+  spec.name          = "dens"
   spec.version       = Dens::VERSION
   spec.authors       = ["Klaas Pieter Annema"]
   spec.email         = ["klaaspieter@annema.me"]
